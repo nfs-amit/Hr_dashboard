@@ -1,13 +1,16 @@
 # Hr_dashboard
-HR_ANALYTICS_DASHBOARD
-Data Cleaning & Processing in Power BI
-Power BI Dashboard Setup
-Import data in Power BI
-Power Query in Power BI
-DAX in Power BI
-Measures and Calculations in Power BI
-Charts in Power BI
-Filters and Slicers in Power BI
-Dashboard in Power BI 
-Export Power BI Dashboard
-Insights from Dashboard 
+1.HR_ANALYTICS_DASHBOARD
+2.Data Cleaning & Processing in Power BI
+3.Power BI Dashboard Setup
+4.Import data in Power BI
+5.Power Query in Power BI
+6.DAX in Power BI
+7.Measures and Calculations in Power BI
+8.Charts in Power BI
+9.Filters and Slicers in Power BI
+10.Dashboard in Power BI 
+11.Export Power BI Dashboard
+12.Insights from Dashboard 
+
+
+DEMO: https://github.com/nfs-amit/Hr_dashboard/blob/main/DASHBOARD.png
